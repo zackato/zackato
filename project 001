@@ -1,0 +1,7 @@
+git echo"#Zackato">>README.md
+git init
+git add README.md
+git commit-m "first commit"
+git branch-m main
+git remote add orgin http://github.co/ZacKato/ZacKato.git
+git push-u origin
